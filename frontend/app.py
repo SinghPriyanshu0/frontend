@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # FastAPI URL
-API_URL = "https://your-fastapi-app.onrender.com/chat"
+API_URL = "https://backend-4-gsat.onrender.com/chat"
 
 
 st.title("💬FAQ Bot")
